@@ -35,7 +35,7 @@ faiss_index = faiss.read_index(INDEX_PATH)
 faq_texts = np.load(TEXT_STORE_PATH, allow_pickle=True)
 
 # Path to the full document (used for full-document QA)
-PDF_PATH = "/home/sharanya/Flask_app/UNIZH Profile.pdf"
+PDF_PATH = "UNIZH Profile.pdf"
 
 # -------------------
 # AUTH DECORATOR
