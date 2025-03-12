@@ -1,0 +1,214 @@
+{
+    "dry-fruits": [
+        {
+            "name": "Yellow Raisins ( Yellow Kismis / Yellow Grapes )",
+            "price": "100.00",
+            "image_path": "product_images/Yellow+Raisins+_+Yellow+Kismis+%2F+Yellow+Grapes+_.jpg"
+        },
+        {
+            "name": "Black Dates",
+            "price": "150.00",
+            "image_path": "product_images/Black+Dates.jpg"
+        },
+        {
+            "name": "Dry Figs ( Athi Pazham )",
+            "price": "362.50",
+            "image_path": "product_images/Dry+Figs+_+Athi+Pazham+_.jpg"
+        },
+        {
+            "name": "Black Raisins Seeded ( Black Kismis )",
+            "price": "100.00",
+            "image_path": "product_images/Black+Raisins+Seeded+_+Black+Kismis+_.jpg"
+        },
+        {
+            "name": "Cashew ( Mundhiri / Kaju )",
+            "price": "250.00",
+            "image_path": "product_images/Cashew+_+Mundhiri+%2F+Kaju+_.jpg"
+        },
+        {
+            "name": "California Almonds ( Badam )",
+            "price": "225.00",
+            "image_path": "product_images/California+Almonds+_+Badam+_.jpg"
+        },
+        {
+            "name": "Roasted Pistachio",
+            "price": "262.50",
+            "image_path": "product_images/Roasted+Pistachio.jpg"
+        },
+        {
+            "name": "Green Pistachio",
+            "price": "475.00",
+            "image_path": "product_images/Green+Pistachio.jpg"
+        },
+        {
+            "name": "Eswar Forest Honey",
+            "price": "325.00",
+            "image_path": "product_images/Eswar+Forest+Honey.jpg"
+        }
+    ],
+    "grains": [
+        {
+            "name": "Urad Dal ( Ulundhu Full )",
+            "price": "40.00",
+            "image_path": "product_images/Urad+Dal+_+Ulundhu+Full+_.jpg"
+        },
+        {
+            "name": "Moong Dal Spilit ( Pasi Paruppu )",
+            "price": "40.00",
+            "image_path": "product_images/Moong+Dal+Spilit+_+Pasi+Paruppu+_.jpg"
+        },
+        {
+            "name": "Toor Dal ( Thuvaram Paruppu / Dhall )",
+            "price": "40.00",
+            "image_path": "product_images/Toor+Dal+_+Thuvaram+Paruppu+%2F+Dhall+_.jpg"
+        },
+        {
+            "name": "Wheat (Kodhumai )",
+            "price": "45.00",
+            "image_path": "product_images/Wheat+_Kodhumai+_.jpg"
+        }
+    ],
+    "spices": [
+        {
+            "name": "Mace (Jadhi Pathiri )",
+            "price": "160.00",
+            "image_path": "product_images/Mace+_Jadhi+Pathiri+_.jpg"
+        },
+        {
+            "name": "Cloves ( Kirambu / Ilavangam )",
+            "price": "75.00",
+            "image_path": "product_images/Cloves+_+Kirambu+%2F+Ilavangam+_.jpg"
+        },
+        {
+            "name": "Green Cardamom ( Elachi / Elakkai )",
+            "price": "180.00",
+            "image_path": "product_images/Green+Cardamom+_+Elachi+%2F+Elakkai+_.jpg"
+        },
+        {
+            "name": "Ceylon Cinnamon ( Surul Pattai )",
+            "price": "75.00",
+            "image_path": "product_images/Ceylon+Cinnamon+_+Surul+Pattai+_.jpg"
+        },
+        {
+            "name": "Singapore Cinnamon ( Singapore Pattai )",
+            "price": "30.00",
+            "image_path": "product_images/Singapore+Cinnamon+_+Singapore+Pattai+_.jpg"
+        },
+        {
+            "name": "Nut Meg ( Jadhikai )",
+            "price": "55.00",
+            "image_path": "product_images/Nut+Meg+_+Jadhikai+_.jpg"
+        },
+        {
+            "name": "Black Cardamom ( Karuppu Elakkai )",
+            "price": "100.00",
+            "image_path": "product_images/Black+Cardamom+_+Karuppu+Elakkai+_.jpg"
+        },
+        {
+            "name": "White Pepper ( White Milaku )",
+            "price": "90.00",
+            "image_path": "product_images/White+Pepper+_+White+Milaku+_.jpg"
+        },
+        {
+            "name": "Turmeric Finger ( Virali Manajal / Selam Manjal )",
+            "price": "30.00",
+            "image_path": "product_images/Turmeric+Finger+_+Virali+Manajal+%2F+Selam+Manjal+_.jpg"
+        },
+        {
+            "name": "Dry Ginger ( Sukku )",
+            "price": "45.00",
+            "image_path": "product_images/Dry+Ginger+_+Sukku+_.jpg"
+        },
+        {
+            "name": "Black Pepper ( Pepper / Milaku )",
+            "price": "85.00",
+            "image_path": "product_images/Black+Pepper+_+Pepper+%2F+Milaku+_.jpg"
+        },
+        {
+            "name": "Cumin Seeds ( Seerakam )",
+            "price": "40.00",
+            "image_path": "product_images/Cumin+Seeds+_+Seerakam+_.jpg"
+        },
+        {
+            "name": "Black Mustard BIg & Small ( Kaduku )",
+            "price": "30.00",
+            "image_path": "product_images/Black+Mustard+BIg+%26+Small+_+Kaduku+_.jpg"
+        },
+        {
+            "name": "Fennel Seeds ( Sombu )",
+            "price": "100.00",
+            "image_path": "product_images/Fennel+Seeds+_+Sombu+_.jpg"
+        },
+        {
+            "name": "Fenu Greek ( Venthayam / Methi )",
+            "price": "30.00",
+            "image_path": "product_images/Fenu+Greek+_+Venthayam+%2F+Methi+_.jpg"
+        },
+        {
+            "name": "Eswar Perungayam ( Asafotida )",
+            "price": "55.00",
+            "image_path": "product_images/Eswar+Perungayam+_+Asafotida+_.jpg"
+        }
+    ],
+    "millets": [
+        {
+            "name": "White Sorghum ( White Solam )",
+            "price": "40.00",
+            "image_path": "product_images/White+Sorghum+_+White+Solam+_.jpg"
+        },
+        {
+            "name": "Ragi ( Kel Varugu )",
+            "price": "20.00",
+            "image_path": "product_images/Ragi+_+Kel+Varugu+_.jpg"
+        },
+        {
+            "name": "Horse Gram ( Kollu )",
+            "price": "60.00",
+            "image_path": "product_images/Horse+Gram+_+Kollu+_.jpg"
+        }
+    ],
+    "seeds": [
+        {
+            "name": "Star Anise ( Annachi Poo )",
+            "price": "70.00",
+            "image_path": "product_images/Star+Anise+_+Annachi+Poo+_.jpg"
+        },
+        {
+            "name": "Sago ( Javvarasi )",
+            "price": "30.00",
+            "image_path": "product_images/Sago+_+Javvarasi+_.jpg"
+        },
+        {
+            "name": "Sabja Seeds",
+            "price": "95.00",
+            "image_path": "product_images/Sabja+Seeds.jpg"
+        },
+        {
+            "name": "Chia Seeds",
+            "price": "95.00",
+            "image_path": "product_images/Chia+Seeds.jpg"
+        },
+        {
+            "name": "Cucumber Seed ( Vellari Vidhai )",
+            "price": "220.00",
+            "image_path": "product_images/Cucumber+Seed+_+Vellari+Vidhai+_.jpg"
+        },
+        {
+            "name": "Sun Flower Seed ( Suriya Gandhi Vidhai )",
+            "price": "105.00",
+            "image_path": "product_images/Sun+Flower+Seed+_+Suriya+Gandhi+Vidhai+_.jpg"
+        },
+        {
+            "name": "Eswar Pumpkin Seeds",
+            "price": "140.00",
+            "image_path": "product_images/Eswar+Pumpkin+Seeds.jpg"
+        }
+    ],
+    "pulses": [
+        {
+            "name": "Red kidney Bean ( Red Rajma )",
+            "price": "50.00",
+            "image_path": "product_images/Red+kidney+Bean+_+Red+Rajma+_.jpg"
+        }
+    ]
+}
